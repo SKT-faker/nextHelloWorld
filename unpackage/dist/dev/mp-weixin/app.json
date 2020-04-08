@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/flex/flex-wrap/flex-wrap",
+    "pages/flex/flex-direction/flex-direction",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
