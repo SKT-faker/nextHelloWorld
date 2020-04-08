@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/flex/align-items/align-items",
     "pages/flex/flex-wrap/flex-wrap",
     "pages/flex/flex-direction/flex-direction",
     "pages/index/index"
