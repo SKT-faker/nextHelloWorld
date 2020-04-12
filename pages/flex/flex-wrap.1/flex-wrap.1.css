@@ -1,0 +1,29 @@
+.box{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-content: center; 
+	/* align-items: center; */
+}
+.blue{
+	background-color: #007AFF;
+}
+.orange{
+	background-color: #F0AD4E;
+}
+.green{
+	background-color: #4CD964;
+}
+.pink{
+	background-color: #FFC0CB;
+}
+.txt{
+	font-size: 15px;
+	width: 150rpx;
+	height: 150rpx;
+}
+.box{
+	width: 750rpx;
+	height: 500rpx;
+	background-color: #2C405A;
+}

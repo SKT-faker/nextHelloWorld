@@ -1,6 +1,18 @@
 {
 	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
+			"path":"pages/flex/align-content/align-content",
+			"style":{
+				"navigationBarTitleText": "align-content"
+			}
+		},
+		{
+			"path":"pages/flex/flex-wrap.1/flex-wrap",
+			"style":{
+				"navigationBarTitleText": "flex-自测"
+			}
+		},
+		{
 			"path": "pages/flex/align-items/align-items",
 			"style": {
 				"navigationBarTitleText": "flex"
